@@ -8,20 +8,227 @@ The course is organized so that each class revolves around a case discussion and
 
 In addition to participating actively during class, students should e-mail the instructors before the case discussion each week to point out three of the case's major concepts.
 
-| SES # | TOPICS |
-| --- | --- |
-| 1 |  {{< br >}}{{< br >}} Case: FedEx {{< br >}}{{< br >}} Introduction ([PDF]({{< baseurl >}}/resources/15840_ses1)) {{< br >}}{{< br >}}  |
-| 2 |  {{< br >}}{{< br >}} Case: Calyx and Corolla {{< br >}}{{< br >}} Theory: Customer Life Time Value ([PDF]({{< baseurl >}}/resources/15840_ses2)) {{< br >}}{{< br >}}  |
-| 3 |  {{< br >}}{{< br >}} Case: Population Services {{< br >}}{{< br >}} Theory: Decision Making ([PDF]({{< baseurl >}}/resources/15840_ses3)) {{< br >}}{{< br >}}  |
-| 4 |  {{< br >}}{{< br >}} Case: Coke {{< br >}}{{< br >}} Theory: Pricing I ([PDF]({{< baseurl >}}/resources/15840_ses4)) {{< br >}}{{< br >}}  |
-| 5 |  {{< br >}}{{< br >}} Case: Rohm and Haas {{< br >}}{{< br >}} Theory: Pricing II ([PDF]({{< baseurl >}}/resources/15840_ses5_1)) {{< br >}}{{< br >}} The Psychology of Pricing ([PDF]({{< baseurl >}}/resources/15840_ses5_2)) {{< br >}}{{< br >}}  |
-| 6 |  {{< br >}}{{< br >}} Case: BMW Films {{< br >}}{{< br >}} Theory: Advertising ([PDF]({{< baseurl >}}/resources/15840_ses6)) {{< br >}}{{< br >}}  |
-| 7 | Midterm Exam |
-| 8 |  {{< br >}}{{< br >}} Case: Zenith {{< br >}}{{< br >}} Theory: Diffusion {{< br >}}{{< br >}}  |
-| 9 |  {{< br >}}{{< br >}} Case: Humminbird {{< br >}}{{< br >}} Theory: Product Development ([PDF]({{< baseurl >}}/resources/15840_ses9)) {{< br >}}{{< br >}}  |
-| 10 |  {{< br >}}{{< br >}} Case: Yoplait {{< br >}}{{< br >}} Theory: Research Methods ([PDF]({{< baseurl >}}/resources/15840_ses10)) {{< br >}}{{< br >}}  |
-| 11 |  {{< br >}}{{< br >}} Cases: Xerox and Intuit {{< br >}}{{< br >}} Theory: Customer Satisfaction ([PDF]({{< baseurl >}}/resources/15840_ses11)) {{< br >}}{{< br >}}  |
-| 12 |  {{< br >}}{{< br >}} Cases: Barco and Swatch {{< br >}}{{< br >}} Theory: Product Life Cycle ([PDF]({{< baseurl >}}/resources/15840_ses12)) {{< br >}}{{< br >}}  |
-| 13 |  {{< br >}}{{< br >}} Cases: Levi's, and Black and Decker {{< br >}}{{< br >}} Theory: Branding ([PDF]({{< baseurl >}}/resources/15840_ses13)) {{< br >}}{{< br >}}  |
-| 14 | Presentations and Simulation |
-| 15 | Final Exam
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Case: FedEx
+
+Introduction ([PDF]({{< baseurl >}}/resources/15840_ses1))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Case: Calyx and Corolla
+
+Theory: Customer Life Time Value ([PDF]({{< baseurl >}}/resources/15840_ses2))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Case: Population Services
+
+Theory: Decision Making ([PDF]({{< baseurl >}}/resources/15840_ses3))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Case: Coke
+
+Theory: Pricing I ([PDF]({{< baseurl >}}/resources/15840_ses4))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Case: Rohm and Haas
+
+Theory: Pricing II ([PDF]({{< baseurl >}}/resources/15840_ses5_1))
+
+The Psychology of Pricing ([PDF]({{< baseurl >}}/resources/15840_ses5_2))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Case: BMW Films
+
+Theory: Advertising ([PDF]({{< baseurl >}}/resources/15840_ses6))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm Exam
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Case: Zenith
+
+Theory: Diffusion
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Case: Humminbird
+
+Theory: Product Development ([PDF]({{< baseurl >}}/resources/15840_ses9))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Case: Yoplait
+
+Theory: Research Methods ([PDF]({{< baseurl >}}/resources/15840_ses10))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Cases: Xerox and Intuit
+
+Theory: Customer Satisfaction ([PDF]({{< baseurl >}}/resources/15840_ses11))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Cases: Barco and Swatch
+
+Theory: Product Life Cycle ([PDF]({{< baseurl >}}/resources/15840_ses12))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Cases: Levi's, and Black and Decker
+
+Theory: Branding ([PDF]({{< baseurl >}}/resources/15840_ses13))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations and Simulation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

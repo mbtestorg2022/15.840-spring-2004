@@ -4,20 +4,225 @@ title: Calendar
 uid: b51a5ec6-28fb-bb22-bec3-4b40894f8a5d
 ---
 
-| SES # | TOPICS |
-| --- | --- |
-| 1 |  {{< br >}}{{< br >}} Case: FedEx {{< br >}}{{< br >}} Introduction {{< br >}}{{< br >}}  |
-| 2 |  {{< br >}}{{< br >}} Case: Calyx and Corolla {{< br >}}{{< br >}} Theory: Customer Life Time Value {{< br >}}{{< br >}}  |
-| 3 |  {{< br >}}{{< br >}} Case: Population Services {{< br >}}{{< br >}} Theory: Decision Making {{< br >}}{{< br >}}  |
-| 4 |  {{< br >}}{{< br >}} Case: Coke {{< br >}}{{< br >}} Theory: Pricing I {{< br >}}{{< br >}}  |
-| 5 |  {{< br >}}{{< br >}} Case: Rohm and Haas {{< br >}}{{< br >}} Theory: Pricing II {{< br >}}{{< br >}}  |
-| 6 |  {{< br >}}{{< br >}} Case: BMW Films {{< br >}}{{< br >}} Theory: Advertising {{< br >}}{{< br >}}  |
-| 7 | Midterm Exam |
-| 8 |  {{< br >}}{{< br >}} Case: Zenith {{< br >}}{{< br >}} Theory: Diffusion {{< br >}}{{< br >}}  |
-| 9 |  {{< br >}}{{< br >}} Case: Humminbird {{< br >}}{{< br >}} Theory: Product Development {{< br >}}{{< br >}}  |
-| 10 |  {{< br >}}{{< br >}} Case: Yoplait {{< br >}}{{< br >}} Theory: Research Methods {{< br >}}{{< br >}}  |
-| 11 |  {{< br >}}{{< br >}} Cases: Xerox and Intuit {{< br >}}{{< br >}} Theory: Customer Satisfaction {{< br >}}{{< br >}}  |
-| 12 |  {{< br >}}{{< br >}} Cases: Barco and Swatch {{< br >}}{{< br >}} Theory: Product Life Cycle {{< br >}}{{< br >}}  |
-| 13 |  {{< br >}}{{< br >}} Cases: Levi's, and Black and Decker {{< br >}}{{< br >}} Theory: Branding {{< br >}}{{< br >}}  |
-| 14 | Presentations and Simulation |
-| 15 | Final Exam
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Case: FedEx
+
+Introduction
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Case: Calyx and Corolla
+
+Theory: Customer Life Time Value
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Case: Population Services
+
+Theory: Decision Making
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Case: Coke
+
+Theory: Pricing I
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Case: Rohm and Haas
+
+Theory: Pricing II
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Case: BMW Films
+
+Theory: Advertising
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm Exam
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Case: Zenith
+
+Theory: Diffusion
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Case: Humminbird
+
+Theory: Product Development
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Case: Yoplait
+
+Theory: Research Methods
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Cases: Xerox and Intuit
+
+Theory: Customer Satisfaction
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Cases: Barco and Swatch
+
+Theory: Product Life Cycle
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Cases: Levi's, and Black and Decker
+
+Theory: Branding
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations and Simulation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
